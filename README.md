@@ -1,6 +1,3 @@
-HiChat
-===
- 
 A chat application built with Node.js and socket.io.
 
 
@@ -10,6 +7,8 @@ Features
 * send emojis :smile:
 * keyboard support :musical_keyboard:
 * online users count statistic :ghost:
+
+* TODO: Improvement in design, Proper login system
 
 How to run
 ---
